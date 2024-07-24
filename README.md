@@ -71,7 +71,7 @@ This code is for a robot control system using ROS (Robot Operating System) to in
        *  If both the values are same then it is moving in ` anti_clockwise ` and we are incrementing the enc_pos .
        *  If both the values are not equal then it is moving in ` clockwise ` and we are derementing the enc_pos
 
-![Diagram](quadrature_encoders.jpg)
+![Diagram](C:\Users\Dell\Downloads\Qudrature_encoders.jpg)
 ![Channels](channels.jpg)
 
 ### Setup
